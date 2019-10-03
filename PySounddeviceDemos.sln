@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RecordAndPlay", "RecordAndPlay\RecordAndPlay.pyproj", "{D00D9B72-909D-4674-B675-60529A8F9B64}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RecordAndPlayCallbackStreams", "RecordAndPlayCallbackStreams\RecordAndPlayCallbackStreams.pyproj", "{EFF10A92-010B-4C62-98F4-582201631EEE}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RecordAndPlayCallbackStreamsDirect", "RecordAndPlayCallbackStreamsDirect\RecordAndPlayCallbackStreamsDirect.pyproj", "{F59116A1-EF2B-497E-AD82-71299396A7E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D00D9B72-909D-4674-B675-60529A8F9B64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D00D9B72-909D-4674-B675-60529A8F9B64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFF10A92-010B-4C62-98F4-582201631EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFF10A92-010B-4C62-98F4-582201631EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F59116A1-EF2B-497E-AD82-71299396A7E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F59116A1-EF2B-497E-AD82-71299396A7E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F06495A-E082-4C01-B383-5B3D164871AC}
+	EndGlobalSection
+EndGlobal
