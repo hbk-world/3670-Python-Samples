@@ -11,5 +11,6 @@ Minimum Requirements:
 You have to install following before the examples can run:
 
 Goto Python folder and run
-•	Python -m pip install sounddevice
-•	Python -m pip install soundfile
+-	Python -m pip install sounddevice
+-	Python -m pip install soundfile
+
