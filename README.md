@@ -1,6 +1,6 @@
 # 3670-Python-Samples
 
-Example Programs using Python-SoundDevice together with Brüel&Kjæer 3670 (8 input/2 ouptput) DAQ system.
+Example Programs using Python-SoundDevice together with Brüel & Kjæer 3670 (8 input/2 ouptput) DAQ system.
 
 Minimum Requirements:
 - Visual Studio 2017 with Python 3.6 (32 bit)
